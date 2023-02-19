@@ -1,0 +1,20 @@
+body{
+    background-color: gray;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.col-md-7{
+    background-color: white;
+}
+
+.col-md-5{
+    background-color: white;
+}
+.resume-header{
+    background-color: wheat;
+}
+
+.motto{
+    color: mediumpurple;
+}
