@@ -19,6 +19,20 @@ In order to pass the individual assessment, you must modify the following elemen
 - Modify the **styles**: Make sure that at least one font, one text colour and one background color are changed.
 - Add **images**: Put your portrait and the logos of the employers you've worked with and schools you've studied in
 - Publish it with **GitHub pages**: Add the link to your CV in the _README.md_ file (yes, this one). We'll be checking your work by clicking on that link, and we'll also check that it works on a mobile phone.
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/
+https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/https://hackernickita.github.io/mycv/
 - Check and **fix any errors**: there should be no broken links or images, and there must be no error when checking your CV on <https://validator.w3.org/>
 
 ## Image credits
